@@ -2,6 +2,18 @@
 
 This project demonstrates camera calibration, ArUco marker generation, detection, and pose estimation using OpenCV. The project consists of several Python scripts that allow you to calibrate your camera, generate ArUco markers, detect them, and estimate their pose in real-time.
 
+Camera Calibration:
+
+<img width="1057" alt="Camera Calibration" src="https://github.com/user-attachments/assets/087279b8-951b-4c7f-ac85-8316316b564c">
+
+ArUco Marker Detection:
+
+<img width="491" alt="Detection" src="https://github.com/user-attachments/assets/4b0b9431-295a-4da6-adf7-b0e972f0008d">
+
+Pose Estimation:
+
+<img width="476" alt="Pose Estimation" src="https://github.com/user-attachments/assets/427f6df0-5a5f-4584-b5a4-f090364db016">
+
 ## Requirements
 
 - Python 3.x
